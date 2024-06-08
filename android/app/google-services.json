@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337279788079",
+    "project_id": "craftsmen-7716f",
+    "storage_bucket": "craftsmen-7716f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337279788079:android:9c391583cbc02a5d10d2da",
+        "android_client_info": {
+          "package_name": "com.example.crafts_men"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA-Q1n2egYOhOlF136_yw6Bw5oJGjaqa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
